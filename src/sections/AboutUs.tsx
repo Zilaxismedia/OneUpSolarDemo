@@ -34,7 +34,7 @@ export function AboutUs() {
     });
 
     return (
-        <section className="bg-white py-24 sm:py-32 overflow-hidden px-6 lg:px-8 mt-[100vh] rounded-t-[3rem] relative z-10 shadow-[0_-20px_50px_rgba(0,0,0,0.1)]">
+        <section className="bg-white py-24 sm:py-32 overflow-hidden px-6 lg:px-8 rounded-t-[3rem] relative z-10 shadow-[0_-20px_50px_rgba(0,0,0,0.1)]">
             <div className="mx-auto max-w-7xl">
                 <div className="flex justify-between items-start gap-16 lg:gap-24 flex-col md:flex-row">
 
